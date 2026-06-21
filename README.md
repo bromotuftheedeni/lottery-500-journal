@@ -1,2 +1,14 @@
 # lottery-500-journal
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
